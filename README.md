@@ -1,5 +1,14 @@
 # Practical class on optical photometry standardization 
 
+This repository contains material for the practical class of the [Observational 
+Techniques](https://guies.uab.cat/guies_docents/public/portal/html/2019/assignatura/42866/en) 
+subject in the [High Energy Physics, Astrophysics and 
+Cosmology](https://www.uab.cat/web/estudiar/official-master-s-degrees/general-information-1096480962610.html?param1=1345648395535)
+master course at the [UAB](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html).
+The topics covered in this class should be considered a quick introduction to 
+the several topics described and, therefore, some of the details required for 
+an accurate data reduction have been excluded. 
+
 The main goal of the current practical class is to compute standard photometry
 from a set of raw science images. Images used in the current class are
 [M67](http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=m67) images obtained
@@ -22,11 +31,15 @@ They can be installed with
 [Anaconda](https://docs.anaconda.com/anaconda/user-guide/) or from
 [Pypi](https://pypi.org/). In this case, the packages to be installed are:
 
-* [`matplotlib`](https://matplotlib.org/) is a comprehensive library for
-creating static, animated, and interactive visualizations in Python.
-* [`ccdproc`](https://ccdproc.readthedocs.io/en/latest/) is a package
-for basic data reductions of CCD images. It provides the essential tools for
-processing of CCD images in a framework that provides error propagation and bad
+* [`matplotlib`](https://matplotlib.org/). Matplotlib is a comprehensive
+library for creating static, animated, and interactive visualizations in Python.
+* [`ipympl`](https://github.com/matplotlib/ipympl). Leveraging the Jupyter
+interactive widgets framework, ipympl enables the interactive features of
+matplotlib in the Jupyter notebook and in JupyterLab.
+* [`ccdproc`](https://ccdproc.readthedocs.io/en/latest/). Ccdproc is an 
+[Astropy](https://docs.astropy.org/en/stable/index.html) affiliated package for
+basic data reductions of CCD images. It provides the essential tools for 
+processing of CCD images in a framework that provides error propagation and bad 
 pixel tracking throughout the reduction process.
 
 
