@@ -42,12 +42,10 @@ basic data reductions of CCD images. It provides the essential tools for
 processing of CCD images in a framework that provides error propagation and bad 
 pixel tracking throughout the reduction process.
 
-
 ## References
 
 * [Python3](https://docs.python.org/3.8/).
 * [Awesome Python](https://awesome-python.com/).
 * [Learn Astropy](https://learn.astropy.org/tutorials.html).
-* [Python for Astronomers and Particle Physicists](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE).
-
-
+* [Python for Astronomers and Particle 
+Physicists](https://github.com/Python4AstronomersAndParticlePhysicists/PythonWorkshop-ICE).
