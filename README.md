@@ -41,6 +41,10 @@ matplotlib in the Jupyter notebook and in JupyterLab.
 basic data reductions of CCD images. It provides the essential tools for 
 processing of CCD images in a framework that provides error propagation and bad 
 pixel tracking throughout the reduction process.
+* [`photutils`](https://photutils.readthedocs.io/en/stable/). Photutils is an 
+affiliated package of [Astropy](https://docs.astropy.org/en/stable/index.html) 
+that primarily provides tools for detecting and performing photometry of 
+astronomical sources.
 
 ## References
 
