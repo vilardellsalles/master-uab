@@ -31,6 +31,9 @@ They can be installed with
 [Anaconda](https://docs.anaconda.com/anaconda/user-guide/) or from
 [Pypi](https://pypi.org/). In this case, the packages to be installed are:
 
+* [`scipy`](https://docs.scipy.org/doc/scipy/reference/). SciPy is an 
+open-source software for mathematics, science, and engineering. It provides 
+tools to work with Fourier transformations, polynomials, regressions, ...
 * [`matplotlib`](https://matplotlib.org/). Matplotlib is a comprehensive
 library for creating static, animated, and interactive visualizations in Python.
 * [`ipympl`](https://github.com/matplotlib/ipympl). Leveraging the Jupyter
@@ -45,6 +48,8 @@ pixel tracking throughout the reduction process.
 affiliated package of [Astropy](https://docs.astropy.org/en/stable/index.html) 
 that primarily provides tools for detecting and performing photometry of 
 astronomical sources.
+* [`astroquery`](https://astroquery.readthedocs.io/en/latest/). Astroquery is a
+set of tools for querying astronomical web forms and databases.
 
 ## References
 
