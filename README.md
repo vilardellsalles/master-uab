@@ -31,6 +31,8 @@ They can be installed with
 [Anaconda](https://docs.anaconda.com/anaconda/user-guide/) or from
 [Pypi](https://pypi.org/). In this case, the packages to be installed are:
 
+* [`numpy`](https://numpy.org/). Numpy is the fundamental package for scientific
+computing with Python.
 * [`scipy`](https://docs.scipy.org/doc/scipy/reference/). SciPy is an 
 open-source software for mathematics, science, and engineering. It provides 
 tools to work with Fourier transformations, polynomials, regressions, ...
@@ -39,15 +41,18 @@ library for creating static, animated, and interactive visualizations in Python.
 * [`ipympl`](https://github.com/matplotlib/ipympl). Leveraging the Jupyter
 interactive widgets framework, ipympl enables the interactive features of
 matplotlib in the Jupyter notebook and in JupyterLab.
+* [`astropy`](https://docs.astropy.org/en/stable/index.html). The Astropy 
+package contains key functionality and common tools needed for performing 
+astronomy and astrophysics with Python.
 * [`ccdproc`](https://ccdproc.readthedocs.io/en/latest/). Ccdproc is an 
 [Astropy](https://docs.astropy.org/en/stable/index.html) affiliated package for
 basic data reductions of CCD images. It provides the essential tools for 
 processing of CCD images in a framework that provides error propagation and bad 
 pixel tracking throughout the reduction process.
 * [`photutils`](https://photutils.readthedocs.io/en/stable/). Photutils is an 
-affiliated package of [Astropy](https://docs.astropy.org/en/stable/index.html) 
-that primarily provides tools for detecting and performing photometry of 
-astronomical sources.
+[Astropy](https://docs.astropy.org/en/stable/index.html) 
+affiliated package that primarily provides tools for detecting and performing 
+photometry of astronomical sources.
 * [`astroquery`](https://astroquery.readthedocs.io/en/latest/). Astroquery is a
 set of tools for querying astronomical web forms and databases.
 
